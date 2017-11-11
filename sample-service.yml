@@ -1,4 +1,5 @@
 ---
 service:
-prop:"sample-service from  my  own repo"
+prop:
+notset:"sample-service from  my  own repo"
 
